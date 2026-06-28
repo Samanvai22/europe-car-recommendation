@@ -1,0 +1,33 @@
+Make,Model,Variant,Year,Price,Mileage,Fuel_Type,Transmission,Fuel_Economy,Acceleration_0_100
+Toyota,Camry,LE Sedan,2022,24000,15000,Petrol,Automatic,32,7.5
+Toyota,Camry,XSE Hybrid,2023,32000,8000,Hybrid,Automatic,46,7.2
+Honda,Civic,Sport,2021,22000,20000,Petrol,Automatic,33,8.2
+Honda,Civic,Type R,2023,43000,3000,Petrol,Manual,25,4.9
+Ford,Mustang,EcoBoost,2022,29000,12000,Petrol,Automatic,25,5.1
+Ford,Mustang,GT V8,2023,47000,4500,Petrol,Manual,18,4.2
+Tesla,Model 3,Long Range,2023,42000,5000,Electric,Automatic,130,4.2
+Tesla,Model Y,Performance,2023,52000,2000,Electric,Automatic,111,3.5
+Tesla,Model S,Plaid,2024,89990,100,Electric,Automatic,116,2.0
+BMW,3 Series,330i,2021,34000,18000,Petrol,Automatic,30,5.5
+BMW,3 Series,320d,2021,35000,19000,Diesel,Automatic,38,6.8
+BMW,M3,Competition,2024,76995,1500,Petrol,Automatic,18,3.5
+BMW,M4,Competition Coupe,2024,79000,2500,Petrol,Automatic,18,3.4
+BMW,M5,Competition Sedan,2023,109000,6000,Petrol,Automatic,17,3.2
+Mercedes-Benz,C-Class,AMG C43,2022,60000,11000,Petrol,Automatic,22,4.6
+Mercedes-Benz,E-Class,E 220d,2023,58000,15000,Diesel,Automatic,40,7.4
+Mercedes-Benz,G-Class,AMG G63,2024,180000,1000,Petrol,Automatic,14,4.5
+Audi,RS3,Base,2024,63395,3500,Petrol,Automatic,24,3.8
+Audi,RS4,Avant,2022,85000,14000,Petrol,Automatic,21,4.1
+Audi,RS5,Coupe,2024,80995,5000,Petrol,Automatic,21,3.9
+Audi,A4,TDI,2021,32000,22000,Diesel,Automatic,35,7.1
+Volkswagen,Golf,GTI,2022,31000,11000,Petrol,Automatic,28,5.9
+Volkswagen,Golf,GTD,2022,32000,12000,Diesel,Automatic,38,7.0
+Hyundai,Tucson,SEL,2022,26000,14000,Petrol,Automatic,26,8.8
+Hyundai,Ioniq 5,N,2025,66200,500,Electric,Automatic,95,3.2
+Porsche,911,Carrera,2025,120100,500,Petrol,Automatic,20,4.0
+Porsche,911,GT3,2025,222500,150,Petrol,Manual,16,3.2
+Porsche,Taycan,4S,2024,111100,200,Electric,Automatic,80,3.8
+Nissan,GT-R,Premium,2025,121090,400,Petrol,Automatic,18,2.9
+Chevrolet,Corvette,Stingray 1LT,2024,68300,1500,Petrol,Automatic,19,2.9
+Lucid,Air,Pure,2026,70900,100,Electric,Automatic,137,4.5
+Rivian,R1T,Adventure,2024,73000,1500,Electric,Automatic,73,3.0
