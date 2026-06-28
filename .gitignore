@@ -1,0 +1,8 @@
+.local/
+.cache/
+.ssh/
+.streamlit/
+__pycache__/
+*.log
+*.out
+.ipynb_checkpoints/
