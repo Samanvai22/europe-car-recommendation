@@ -126,3 +126,29 @@ ls
 ls -l
 cat ~/.ssh/id_rsa.pub
 ssh-keygen -t rsa -b 4096 -C "your-email@example.com"
+git status
+git add .
+git commit git@github.com:Samanvai22/europe-car-recommendation.git
+git add .
+git push -u origin main
+git remote set-url origin git@github.com:Samanvai22/europe-car-recommendation.git
+git add .
+git commit -m "Uploading final project files"
+ls
+cd app.py
+git add app.py cars.csv nohup.out upload_to_rds.py
+git add app.py cars.csv upload_to_rds.py
+git add -f nohup.out
+git commit -m "Final project upload"
+git push -u origin main
+git remote add origin git@github.com:Samanvai22/europe-car-recommendation.git
+git push -u origin main
+git remote set-url origin git@github.com:Samanvai22/europe-car-recommendation.git
+git push -u origin main
+ssh -T git@github.com
+cat ~/.ssh/id_rsa.pub
+ssh -i your-key.pem ec2-user@YOUR_PUBLIC_IP
+ssh -i your-key.pem ec2-user@16.16.58.22
+ssh -i /path/to/your-key.pem ubuntu@16.16.58.22
+ssh -i /path/to/your-key.pem ubuntu@16.16.58.22:8501
+scp -i /path/to/your-key.pem -r ubuntu@16.16.58.22:~/europe-car-recommendation .
